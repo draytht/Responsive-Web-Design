@@ -8,7 +8,7 @@ This is the portfolio website of Thanh Tran, showcasing various web development 
 To set up the project locally, follow these steps:
 
 ```bash
-git clone [Your-Repository-URL]
+git clone https://github.com/draytht/Responsive-Web-Design
 cd thanhtranportfolio
 npm install
 ```
